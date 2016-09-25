@@ -1,7 +1,7 @@
 # computationalphysics_N2014301020157
 # Homework List
 # [Exercise_02](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/Exercise_02.md)
-# [Exercise_03]()
+# [Exercise_03](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/Exercise_03.md)
 # [Exercise_04]()
 # [Exercise_05]()
 # [Exercise_06]()
