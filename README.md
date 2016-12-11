@@ -10,7 +10,7 @@
 # [Exercise_09](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_09.md)
 # [Exercise_10](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_10.md)
 # [Exercise_11](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_11.md)
-# [Exercise_12]()
+# [Exercise_12](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_12.md)
 # [Exercise_13]()
 # [Exercise_14]()
 # [Final Project]()
