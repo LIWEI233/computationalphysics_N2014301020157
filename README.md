@@ -11,6 +11,6 @@
 # [Exercise_10](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_10.md)
 # [Exercise_11](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_11.md)
 # [Exercise_12](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_12.md)
-# [Exercise_13]()
+# [Exercise_13](https://github.com/LIWEI233/computationalphysics_N2014301020157/blob/master/exercise_13.md)
 # [Exercise_14]()
 # [Final Project]()
